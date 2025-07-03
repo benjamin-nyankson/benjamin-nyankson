@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00C49A&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Benjamin+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;-Vue+%7C+React+%7C+TypeScript+%7C+Tailwind+CSS-;Passionate+about+Clean+Code+%26+UX+%F0%9F%A4%9D;Let's+Build+Something+Amazing+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00C49A&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Benjamin+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Vue+%7C+React+%7C+TypeScript+%7C+Tailwind+CSS;Passionate+about+Clean+Code+%26+UX+%F0%9F%A4%9D;Let's+Build+Something+Amazing+%F0%9F%9A%80" alt="Typing SVG" />
   
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/benjamin.nyankson.7) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benjamin-nyankson-47806799) 
