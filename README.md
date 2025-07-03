@@ -1,15 +1,23 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00C49A&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Benjamin+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Vue+%7C+React+%7C+TypeScript+%7C+Tailwind+CSS;Passionate+about+Clean+Code+%26+UX+%F0%9F%A4%9D;Let's+Build+Something+Amazing+%F0%9F%9A%80" alt="Typing SVG" />
+  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/benjamin.nyankson.7) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benjamin-nyankson-47806799) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nyanksonbenjamin4) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/bnyankson) 
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/nyanksonbenjam1) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/benjamin-nyankson) 
+
 </div>
 
-# 💫 About Me:
-I'm Benjamin, a passionate Frontend Developer who enjoys building clean, responsive, and scalable web applications. With a strong foundation in JavaScript and TypeScript, I bring ideas to life using modern frameworks like React, Vue, and Angular.
 
+---
+## 💫 About Me:
+Passionate Frontend Developer who enjoys building clean, responsive, and scalable web applications. With a strong foundation in JavaScript and TypeScript, I bring ideas to life using modern frameworks like React, Vue, and Angular.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/benjamin.nyankson.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benjamin-nyankson-47806799) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nyanksonbenjamin4) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/bnyankson) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nyanksonbenjam1) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/benjamin-nyankson) 
+---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <div align="center">
   
@@ -24,16 +32,18 @@ I'm Benjamin, a passionate Frontend Developer who enjoys building clean, respons
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 
 ### 🎨 UI Libraries & Styling
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![ShadCn](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design&logoColor=0170FE)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
@@ -101,6 +111,14 @@ I'm Benjamin, a passionate Frontend Developer who enjoys building clean, respons
 ![](https://github-readme-stats.vercel.app/api?username=nyankson-benjamin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nyankson-benjamin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nyankson-benjamin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 📈 Activity & Contributions
+
+[![wakatime](https://wakatime.com/badge/user/b7bf4d25-9b24-4610-a436-b47f6fc047d1.svg)](https://wakatime.com/@b7bf4d25-9b24-4610-a436-b47f6fc047d1)
+
+<picture>
+  <img src="/github-metrics.svg" alt="Core Metrics">
+</picture>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nyankson-benjamin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
